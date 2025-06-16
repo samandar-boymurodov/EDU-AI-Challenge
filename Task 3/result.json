@@ -1,0 +1,12 @@
+{
+    "summary": "Remote work, accelerated by the global pandemic, offers employees greater flexibility, higher job satisfaction, and reduced commuting, while enabling companies to cut operational costs. However, it presents challenges such as isolation, blurred work-life boundaries, and management difficulties; hybrid models and advancing collaboration tools are emerging as solutions.",
+    "sentiment": {
+        "classification": "neutral",
+        "score": 0.3
+    },
+    "metadata": {
+        "word_count": 143,
+        "sentence_count": 6,
+        "reading_time_minutes": 0.7
+    }
+}
